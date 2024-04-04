@@ -1,0 +1,75 @@
+.main-container{
+    overflow-y: auto;
+}
+.header{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: fixed;
+    width: 100%;
+    top:0;
+    left: 0;
+background-color:rgb(231, 42, 117);
+}
+.lubna{
+    font-family:'Times New Roman', Times, serif;
+}
+.raw{
+    margin: 0%;
+    text-align: center;
+    padding-top:10%;
+    padding-bottom: 10%;
+    display: flex;
+  font-family:cursive;
+    
+}
+.container-one{
+    background-color: rgb(37, 2, 32);
+    top: 10%;
+    padding-bottom: 5%;
+}
+.youtuber{
+    list-style-type: none;
+    padding: 0%;
+    margin:0%;
+}
+.socialmeadia-link{
+    text-align: center;
+}
+.fa{
+    background:transparent;
+     align-items: center;
+}
+.works{
+    text-align: center;
+}
+.images{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    justify-content:center ;
+}
+.img-gallery:hover{
+    opacity: .5;
+    transition: .9;
+}
+.qualification{
+padding-left: 20%;
+padding-top: 5%;
+padding-bottom: 0%;
+}
+
+.study{
+    display:flex ;
+    padding-top: 0%;
+    padding-left: 10%;
+    border-style: double;
+}
+
+.multi-column{
+    list-style-position: inside;
+    border-style: double;
+    border-radius: 50.rem;
+    width: 20rem;
+    text-align: left;
+    
+}
